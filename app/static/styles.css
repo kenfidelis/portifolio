@@ -1,0 +1,58 @@
+
+/* Add your CSS styles here */
+
+/* Example styles for header */
+.white-text-container {
+    background-color: #979ebb;
+    padding: 20px;
+  }
+  
+  .white-text-container h1 {
+    color: #e1cccc;
+  }
+  
+  .white-text-container p {
+    color: hsl(0, 68%, 39%);
+  }
+  
+  /* Example styles for cards */
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .card-title {
+    font-size: 24px;
+  }
+  
+  .card-text {
+    color: #be1515;
+  }
+  
+  /* Example styles for images */
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Example styles for buttons */
+  .btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2316b1;
+    color: #4a18a8;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: hsl(211, 100%, 35%);
+  }
+  h1 {
+    color: green;
+}
